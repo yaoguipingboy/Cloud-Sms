@@ -6,7 +6,6 @@
 -- 生成日期: 2014 年 10 月 29 日 12:37
 -- 服务器版本: 5.5.38
 -- PHP 版本: 5.3.28
--- update by hero 2018-12-10 10:11
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
