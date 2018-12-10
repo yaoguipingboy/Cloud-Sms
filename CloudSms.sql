@@ -16,7 +16,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
 -- comment modified by hero on 20181210 
-
+-- modified on master branch on 20181210
 --
 -- 数据库: `sms`
 --
